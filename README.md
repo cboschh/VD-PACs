@@ -1,3 +1,9 @@
+### Els tres primers fitxers corresponen als 3 codis en Python (.ipybn) que he creat per fer les visualitzacions amb les tres tècniques assignades
+- Sankey diagram
+- Hexagonal binning
+- icon Chart
+### A continuació mostro una breu explicació de les 3 visualitzacions que es poden obtenir a partir dels 3 codis anteriors
+.
 ## SANKEY DIAGRAM
 **Sankey diagrams (fluxos migratoris entre païssos)**
 
