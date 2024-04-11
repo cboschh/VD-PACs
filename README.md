@@ -23,11 +23,11 @@ L’exemple que he triat per aquest tipus de diagrama és l’estudi de la pobla
 
 Per fer aquest tipus de diagrama he creat dos programes en Python a partir de les dades que he per la població d’Alemanya i que desprès he juntat amb un mateix programa perquè es mostrin els resultats un a continuació de l’altre. La primera part de l’estudi fa referencia a la població que trobem en els 16 Länders o Estats d’Alemanya (on el diagrama Hexagonal Binning veiem que no mostra gaires diferències significatives en el total de la població de cada un dels Estats). 
 
-<img width="692" alt="Hexagonal Binning 2" src="https://github.com/cboschh/VD-PACs/assets/61453554/82560621-bcd6-4b5c-8b18-2507d26ec69b">
+<img width="719" alt="Hexagonal Binning 1" src="https://github.com/cboschh/VD-PACs/assets/61453554/08eccb3a-7593-43f0-a964-3ec93cad3e85">
 
 A la segona part de l’estudi el diagrama Hexagonal Binning l’estudi fa referència a les 50 ciutats més importants d’Alemanya i podem veure clarament que la majoria de la població s’agrupa a la zona est d’Alemanya , on es troben grans nuclis de població com Colonia, Bonn, Munic o Düsseldorf on es mostren els hexàgons en un color més intens i també suposo que hi ha superposicions que fan que el color es mostri més intens. Altres grans pobacions com Berlin a la dreta o Frankfurt o Heidelberg al sud que també es mostren amb un color més intens. A la resta de les ciutats estudiades el color dels hexàgons és molt més clar i això representa que aquestes poblacions tenen menys població. Volia representar els hexàgons damunt del mapa d’Alemanya però no he aconseguit fer-ho
 
-<img width="719" alt="Hexagonal Binning 1" src="https://github.com/cboschh/VD-PACs/assets/61453554/08eccb3a-7593-43f0-a964-3ec93cad3e85">
+<img width="692" alt="Hexagonal Binning 2" src="https://github.com/cboschh/VD-PACs/assets/61453554/82560621-bcd6-4b5c-8b18-2507d26ec69b">
 
 ## ICON CHART
 **Icon Chart (comparació d’emoticons amb fotografíes d’imatges reals)**
