@@ -11,7 +11,7 @@ L’exemple que he triat per aquest tipus de diagrama és el flux migratori entr
 
 <img width="514" alt="Diagrama de Sankey 1" src="https://github.com/cboschh/VD-PACs/assets/61453554/5b5db04d-78e7-4b38-9b21-3430d8a1e5cd">
 
-Si passem amb el ratolí per damunt de les connexions o dels nodes es mostren el país d’origen, el país de destí i el valor del flux migratori com es mostra ala dos exemples següents
+Si passem amb el ratolí per damunt de les connexions o dels nodes es mostren el país d’origen, el país de destí i el valor del flux migratori com es mostra als dos exemples següents:
 
 <img width="514" alt="Diagrama de Sankey 2" src="https://github.com/cboschh/VD-PACs/assets/61453554/bb0c076e-0ef7-46e0-b7dd-7853bb96c0d8">
 <img width="517" alt="Diagrama de Sankey 3" src="https://github.com/cboschh/VD-PACs/assets/61453554/e67f25dd-ffce-4e70-9710-2ee0d74f9373">
