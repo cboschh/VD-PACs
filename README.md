@@ -1,4 +1,4 @@
-#### Els tres primers fitxers corresponen als 3 codis en Python (.ipybn) que he creat per fer les visualitzacions amb les tres tècniques assignades
+#### Els tres primers fitxers corresponen als codis en Python (.ipybn) i la versió en HTML, que he creat per fer les tres visualitzacions amb les tres tècniques assignades
 - Sankey diagram
 - Hexagonal binning
 - icon Chart
