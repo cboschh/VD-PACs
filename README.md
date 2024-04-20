@@ -8,7 +8,7 @@
 
 ## SANKEY DIAGRAM
 **Sankey diagrams (fluxos migratoris entre païssos)**
-
+ 
 L’exemple que he triat per aquest tipus de diagrama és el flux migratori entre diferents països. Per la qual cosa he creat un programa en Python a partir de les dades que he trobat  pels diferents països d’origen, els països de destí i el valor d’aquest flux migratori
 
 <img width="514" alt="Diagrama de Sankey 1" src="https://github.com/cboschh/VD-PACs/assets/61453554/5b5db04d-78e7-4b38-9b21-3430d8a1e5cd">
