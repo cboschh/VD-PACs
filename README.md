@@ -42,11 +42,11 @@ Aquí mostro la taula que he creat representant diferents estats d’ànim de le
 
 
 
-<img width="358" alt="Icon Chart 1" src="https://github.com/cboschh/VD-PACs/assets/61453554/3bfa4411-e474-4a0e-b0fc-706cf3154f7a">
+<img width="357" alt="Icon Chart 1" src="https://github.com/cboschh/VD-PACs/assets/61453554/3bfa4411-e474-4a0e-b0fc-706cf3154f7a">
 
 .
 
-<img width="390" alt="Icon Chart 2" src="https://github.com/cboschh/VD-PACs/assets/61453554/eeebb9a0-05d0-48b4-95fb-994ae6b41549">
+<img width="800" alt="Icon Chart 2" src="https://github.com/cboschh/VD-PACs/assets/61453554/eeebb9a0-05d0-48b4-95fb-994ae6b41549">
 
 .
 
