@@ -46,7 +46,7 @@ Aquí mostro la taula que he creat representant diferents estats d’ànim de le
 
 .
 
-<img width="358" alt="Icon Chart 2" src="https://github.com/cboschh/VD-PACs/assets/61453554/eeebb9a0-05d0-48b4-95fb-994ae6b41549">
+<img width="360" alt="Icon Chart 2" src="https://github.com/cboschh/VD-PACs/assets/61453554/eeebb9a0-05d0-48b4-95fb-994ae6b41549">
 
 .
 
