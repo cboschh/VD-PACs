@@ -36,7 +36,7 @@ A la segona part de l’estudi el diagrama Hexagonal Binning l’estudi fa refer
 
 L’exemple que he triat per aquest apartat ha estat un Icon Chart molt conegut, la taula d’emoticons que tots coneixem i fem servir amb aplicacions com Whatsapp o Telegram. Respecte a aquesta Icon Chart que tots coneixem podem veure exemples que representen l’estat d’ànim de les persones de manera “força precisa” tal com es pot veure a la següent icon chart i comparant amb imatges de fotografíes reals que he cercat per Internet, Recordem que una icona és un signe o figura que té semblança amb l'objecte que representa. Com podrem veure la semblança és molt evident
 
-<img width="318" alt="Icon Chart 0" src="https://github.com/cboschh/VD-PACs/assets/61453554/20210430-e041-4ea0-a59f-ada8e9e38f74">
+<img width="357" alt="Icon Chart 0" src="https://github.com/cboschh/VD-PACs/assets/61453554/20210430-e041-4ea0-a59f-ada8e9e38f74">
 
 Aquí mostro la taula que he creat representant diferents estats d’ànim de les persones i que conté imatges reals que he trobat per Internet i les he comparat amb l’icona corresponent. Com podem comprovar una icona és un signe o figura que té semblança amb l'objecte que representa i  a la taula podem veure que presenten una semblança força evident
 
