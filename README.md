@@ -2,7 +2,7 @@
 - Sankey diagram
 - Hexagonal binning
 - icon Chart
-#### També s'adjunten el pdf-resum de la PAC2 i el vídeo amb la visualització creada per aquesta PAC2
+#### També s'adjunta el pdf-resum de la PAC2 i el vídeo amb la visualització creada per aquesta PAC2 (Bosch_Carles-VD-PAC2)
 
 #### A continuació mostro una breu explicació de les 3 visualitzacions que es poden obtenir a partir dels 3 codis anteriors
 
